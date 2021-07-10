@@ -1,0 +1,16 @@
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\bin\Debug\Final_adm_bd_Pugno.exe
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\bin\Debug\Final_adm_bd_Pugno.pdb
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\bin\Debug\Final_adm_bd_Pugno.xml
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\obj\Debug\Final_adm_bd_Pugno.Alta_alumno.resources
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\obj\Debug\Final_adm_bd_Pugno.Menu.resources
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\obj\Debug\Final_adm_bd_Pugno.Resources.resources
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\obj\Debug\Final_adm_bd_Pugno.vbproj.GenerateResource.Cache
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\obj\Debug\Final_adm_bd_Pugno.exe
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\obj\Debug\Final_adm_bd_Pugno.xml
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\obj\Debug\Final_adm_bd_Pugno.pdb
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\obj\Debug\Final_adm_bd_Pugno.Modificar_alumno.resources
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\obj\Debug\Final_adm_bd_Pugno.Alta_Profesores.resources
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\obj\Debug\Final_adm_bd_Pugno.Modificar_prof.resources
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\obj\Debug\Final_adm_bd_Pugno.Materias.resources
+C:\Users\FEDE\Dropbox\UTN\Labo 4\Final_adm_bd_Pugno\Final_adm_bd_Pugno\obj\Debug\Final_adm_bd_Pugno.Modificar_materia.resources
